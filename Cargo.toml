@@ -1,0 +1,8 @@
+[package]
+name = "roadway_control"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rumqttd = "0.20"
+rumqttc = "0.25"

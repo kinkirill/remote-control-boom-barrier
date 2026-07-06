@@ -1,0 +1,5 @@
+GATE_CHATS = {
+    "12345": "Smirnov",
+    "11111": "Smith",
+    "01010": "Muhad",
+}
